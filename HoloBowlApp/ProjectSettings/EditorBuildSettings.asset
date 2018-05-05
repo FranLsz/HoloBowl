@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Final/FinalScene.unity
+    guid: 8033f9d38b916c848b29652f27394286
+  - enabled: 0
+    path: Assets/Scenes/Steps/Step1Scene.unity
+    guid: a6d2919259378284bb6fcdbe33d29538
+  - enabled: 1
+    path: Assets/Scenes/Steps/Step5Scene.unity
+    guid: eebb16191b6e0974e9e50d3d70658aab
